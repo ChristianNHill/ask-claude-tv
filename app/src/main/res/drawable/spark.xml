@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Orange spark mark in Anthropic's brand orange (#D97757). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp" android:height="48dp"
+    android:viewportWidth="48" android:viewportHeight="48">
+    <path android:strokeColor="#D97757" android:strokeWidth="3.6" android:strokeLineCap="round"
+        android:pathData="M24.00,20.00L24.00,3.00M26.00,20.54L31.50,11.01M27.46,22.00L42.19,13.50M28.00,24.00L39.00,24.00M27.46,26.00L42.19,34.50M26.00,27.46L31.50,36.99M24.00,28.00L24.00,45.00M22.00,27.46L16.50,36.99M20.54,26.00L5.81,34.50M20.00,24.00L9.00,24.00M20.54,22.00L5.81,13.50M22.00,20.54L16.50,11.01" />
+</vector>
